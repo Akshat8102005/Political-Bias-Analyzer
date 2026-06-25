@@ -293,12 +293,4 @@ Right
 
 This project is licensed under the MIT License.
 
----
 
-## Author
-
-**Akshat Sharma**
-
-B.Tech, IIT Delhi
-
-If you found this project useful, consider giving the repository a ⭐.
