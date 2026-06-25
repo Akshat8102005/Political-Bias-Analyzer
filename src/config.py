@@ -1,0 +1,17 @@
+MODEL_NAME = "roberta-base"
+
+NUM_LABELS = 5
+
+MAX_LENGTH = 256
+
+TRAIN_BATCH_SIZE = 8
+
+EVAL_BATCH_SIZE = 8
+
+LEARNING_RATE = 2e-5
+
+EPOCHS = 3
+
+RANDOM_SEED = 42
+
+MODEL_SAVE_PATH = "../models/roberta_bias_classifier"
